@@ -5,3 +5,9 @@ int main() {
 	int Foolsh = 1;
 	printf("If god is %d\n", God);
 }
+
+void utility() {
+
+
+
+}
