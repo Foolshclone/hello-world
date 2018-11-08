@@ -1,15 +1,17 @@
 #import <stdio.h>
-extern void utility();
+extern void primary();
 
 int main() {
 	int God = 20;
 	int Foolsh = 1;
 	printf("If god is %d\n", God);
-	utility()z
+	primary();
 }
 
-void utility() {
+void primary() {
 	  float i_am_God, i_am_on9; 
 	  i_am_God = camen;
 	  printf("Jesus is here %d \n", i_am_God);
 }
+
+void second()
