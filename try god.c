@@ -14,4 +14,3 @@ void primary() {
 	  printf("Jesus is here %d \n", i_am_God);
 }
 
-void second()
